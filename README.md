@@ -211,4 +211,4 @@ Relationships were designed using **1:* directional modeling**, optimized for pe
 
 ## 🔗 Portfolio
 
-- Notion Portfolio: [Add your Notion link here]
+- Notion Portfolio: https://www.notion.so/RappiPlus-De-datos-a-decisiones-de-negocio-364ddeb97846801b93b0f7caa7160019?source=copy_link
