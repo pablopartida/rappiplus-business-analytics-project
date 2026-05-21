@@ -1,5 +1,7 @@
 # 📊 RappiPlus Business Analytics Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablopartida/rappiplus-business-analytics-project/blob/main/notebooks/rappiplus-business-analysis.ipynb)
+
 End-to-end business analytics project developed to evaluate the performance of **RappiPlus**, a subscription service designed to increase purchase frequency and customer value within the Rappi ecosystem.
 
 The project combines **Python, SQL, statistical analysis, and Power BI** to assess business profitability, user behavior, retention, conversion funnel performance, and product experimentation impact.
